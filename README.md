@@ -9,3 +9,6 @@ Currency Calculator Using REST API
 
 - React
 - Firebase (Hosting)
+
+## API
+- https://exchangerate.host
